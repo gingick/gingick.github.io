@@ -331,7 +331,7 @@ a {
 }
 
 .icon--email {
-	-webkit-mask-image: url('../img/icon-email.svg');
+	-webkit-mask-image: url('../img/gicon-email.svg');
 	mask-image: url('../img/icon-email.svg');
 }
 
