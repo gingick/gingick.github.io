@@ -183,6 +183,7 @@ a {
 	position: relative;
 }
 
+/*=========
 .name__last-name:before {
 	content: '';
 	display: block;
@@ -196,6 +197,7 @@ a {
 	z-index: -1;
 	opacity: .75;
 }
+====*/
 
 /*=========================
   Description
