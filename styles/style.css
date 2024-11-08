@@ -216,12 +216,13 @@ a {
 }
 
 .description:before,
+/*
 .description:after {
 	content: '';
 	display: block;
 	position: absolute;
 }
-
+*/
 .description:before {
 	top: .5em;
 	bottom: var(--spacer-s);
