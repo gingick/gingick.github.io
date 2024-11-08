@@ -324,8 +324,8 @@ a {
 }
 
 .icon--github {
-	-webkit-mask-image: url('../img/icon-github.svg');
-	mask-image: url('../img/icon-github.svg');
+	-webkit-mask-image: url('../img/github-icon.svg');
+	mask-image: url('../img/github-icon.svg');
 }
 
 .icon--telegram {
